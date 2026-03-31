@@ -1,1 +1,2 @@
 Assignment 1: Initialized the repository and created this file.
+Assignment 2: Adding new feature development notes.
